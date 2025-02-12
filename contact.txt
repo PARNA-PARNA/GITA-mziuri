@@ -1,0 +1,3 @@
+გიორგი: giorgi@example.com
+თამარი: tamari@example.com
+ნინო: nino@example.com
